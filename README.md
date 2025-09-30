@@ -1,2 +1,0 @@
-# LinkRide
-Carpooling WebApp
