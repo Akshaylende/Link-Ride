@@ -3,7 +3,7 @@
 Carpooling WebApp
 
 
-* setup - 
+# Project Setup - 
 Open any Editor App and Initialize a empty directory folder and open the Terminal in it.
 
 1. Take the pull of this repository from the command. 
